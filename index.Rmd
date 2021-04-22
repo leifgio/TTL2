@@ -1,9 +1,9 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAMES HERE"
+title: "Technology in Teaching and Learning"
+author: "Leif Gio Villanueva"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Introduction
+# Using ICT in Developing 21st Century Skills
 

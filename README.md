@@ -1,22 +1,3 @@
-This is a template for the EDAV final project. It is based on the template created with *File, New Project..., New Directory, Book Project using bookdown* in RStudio. 
-
-
-## ABSOLUTE ESSENTIALS
-
-*Follow these instructions and you will have a published bookdown book in less than five minutes. If you have any difficulties or have feedback of any kind, please file an issue.*
-
-### Copy this template
-
-- [ ] 1. Click the green "Use this template" button above.  DO NOT FORK THE REPO.
-
-- [ ] 2. Choose a descriptive name for your repo, such as "federalbudget" or "AIDSdeaths".  (If you change your mind before you do any work, delete your new repo and start over.)
-
-- [ ] 3. In the Description field, write: "Bookdown source files for EDAV final project".
-
-### Clone the repo
-
-- [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git* in RStudio.
-
 ### Edit some key files
 
 - [ ] 1. In `index.Rmd`, change YOUR TITLE HERE to your title.
