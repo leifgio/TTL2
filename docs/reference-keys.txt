@@ -8,6 +8,12 @@ digital-learning-resources
 non-digital-teaching-and-learning-resources
 bridging-the-generation-gap
 generation
+mode-of-learning
+generalization-1
 understanding-technology-learners
+learner
+st-century-learning
+todays-learner
+generalization-2
 developing-basic-digital-skills
 preferences-of-technology-generation

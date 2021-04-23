@@ -23,7 +23,7 @@ and that of their offspring
 - Often feels that there is a generation gap between them and the younger generation.
 - The gap is apparent in simple things like **manner of dressing, way of socializing, entertainment, intimate relationships,** etc.
 
-##Mode of Learning
+## Mode of Learning
 
 In the field of education, a huge generation gap also exists and it will continue to widen unless some changes are adopted at the proper time.
 
@@ -46,3 +46,10 @@ store, create, share or exchange particular task.
 overcoming, borders between countries and continents.
 - Much of what elders believe may not applicable anymore to the
 new generation, especially along matters of traditional value.
+
+## Generalization
+
+Since the new generations are expected to face a future professional
+challenge of digital world ahead of them, technology supported skills
+need to be taught in schools today or else, schools will become white
+elephant.
