@@ -57,12 +57,13 @@ Digitally formatted materials included in the context of a course that support t
 learning goals.
 
 **Types of Digital Learning Resources**
-- TEXT (online articles websites, e-books, blogs, manuals and reports)
-- GRAPHICS (photos, paintings, drawing, cartoons, illustration )
-- AUDIO (podcast)
-- ANIMATION(animated demos, processes)
-- SIMULATION(virtual world, second life)
-- GAMES(mine craft, portal, spore)
+
+- text (online articles websites, e-books, blogs, manuals and reports)
+- graphics (photos, paintings, drawing, cartoons, illustration )
+- audio (podcast)
+- animation(animated demos, processes)
+- simulation(virtual world, second life)
+- games(mine craft, portal, spore)
 
 **Why digital learning resources?**
 - Relevant and regularly updated content
