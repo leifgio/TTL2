@@ -1,1 +1,129 @@
 # Developing Basic Digital Skills
+
+As teachers adjust their teaching to effectively match the new digital world of
+information technology (ICT), they must be clear on what basic knowledge, skills,
+and values (for literacies) needs to be developed by digital learners. These basic
+literacies will not replace the 3R’s (Reading, Writings and arithmetic), but they will be
+complemented by six essential skills to equip students for success in the millennial
+world. Rather than call them literacy skills, these are better referred to as fluency
+skills conveying the ease and facility in acquiring and using them
+
+## Solution Fluency
+
+This refers to the capacity and creativity in problem solving. It requires whole brain
+thinking executed when students define a problem, design the appropriate solution,
+apply the solution, and assess the process and result.
+
+**6 D's of Solution Fluency**
+
+- Define the problem, because you need to know exactly what you’re doing before you
+start.
+- Discover a solution, because planning prevents wasted effort.
+- Dream up a process, one that is suitable and efficient.
+- Design the process in an accurate and detailed action plan.
+- Deliver by putting the plan into action by both producing and publishing the solution.
+- Debrief and foster ownership by evaluating the problem solving process.
+
+## Information Fluency
+
+This refers to the capacity and creativity in problem solving.
+This involves 3 subset skills:
+- ability to access information
+- ability to retrieve information
+- ability reflect on, assess and rewrite for instructive information packages.
+
+**Information Fluency has 5 A's**
+
+- Ask
+- Acquire
+- Analyse
+- Apply
+- Assess
+
+## Collaboration Fluency
+
+This refers to teamwork with virtual or real partner in the online environment.
+Working, playing, and learning in today’s digital world involves working with others. It
+is the spirit of collaboration that will stimulate progress in our global marketplace, in
+our social networks, and in our ability to create products of value and substance.
+Collaboration fluency is the ability to successfully work and interact with virtual and
+real partners.
+
+**Process of Collaboration**
+
+1. Establish
+2. Envision
+3. Engineer
+4. Execute
+5. Examine
+
+## Media Fluency
+
+Media refer to channels of mass communication (radio, television, magazine,
+advertising, graphic arts) or digital sources. There is a need for an analytical mind to
+evaluate the message in a chosen media, as well as creative ability to publish digital
+messages. There are paid-for and free-domains, such as blog pages, in which
+personal reflection or journal messages can be published without cost. Sites on the
+educational sector especially of developed countries, published articles, researches
+and lesson plans are easily accessible by researchers and learners.
+
+## Creative FLuency
+
+Artistic fluency adds meaning by way of design, arts, and storytelling to
+package a message. Font, color, patterns, layout are elements to creative fluency.
+Template of PowerPoint presentation and blogs are available for free access in the
+internet.
+
+**Process in creative Fluency**
+
+1. Identify
+2. Inspire
+3. Interpolate
+4. Imagine
+5. Inspect
+
+## Digital Ethics
+
+The digital citizen is guided by the principles of leadership, global,
+responsibility, environmental awareness, global citizenship, and personal
+accountability. Sad to say, the digital world is not free from those who exploit the
+digital space for personal selfish commercial and criminal activities.
+
+**Bloom's Taxonomy**
+
+Blooms taxonomy was created in 1950 by educational psychologist Benjamin
+Bloom.The three lower levels : Knowledge, Comprehension, and Application are
+most basic level of cognition or also called lower order thinking skills. This may
+include concrete thinking, memorization and understanding. The three upper levels:
+Analysis, Synthesis and Evaluation refers to as Higher order thinking skills. It
+includes abstract, critical , meta cognitive and creative thinking
+
+In 1990’s blooms taxonomy was updated by David Krathwohl and Loren
+Anderson the former student of Benjamin Bloom. To make the model relevant to the
+21 st century learner one of their main change was updating the noun associated with
+each level to action oriented verbs, they also reorder the last two steps, evaluation
+which was the previously at the top was move down and create or the synthesis
+move to the top.In recent years there is many interpretation with blooms taxonomy
+like reverse pyramid, bulb and so on but thinking about how technology affects this
+model they consider it as “Blooms Digital Taxonomy”
+
+This updated version aims to expand upon the skills associate with each level
+as technology become more essential part in the learning. For example in creating,
+learners are designing, inventing and constructing a piece of work that shows what
+they know, one could add digital words to creating like blog, remix, editing or
+program. Adding digital words to taxonomy also promotes 21 st century skills like
+communication, collaboration, creativity and critical thinking.
+
+There are tools that help student analyze and make sense of content like
+reading charts, graphs or mind maps or you can think about what tools support the
+students creation like producing like podcasting, vlogging, coding, editing, animation,
+slideshow, design a poster and more with this examples the focus should not necessarily be on the tools and themselves but on how the tools can be a way on transforming students thinking in different levels
+
+**4D's of Problem Solving Approach**
+
+- Define the relevant problem statement by identifying the real issue.
+- Develop the necessary Hypothesis to solve the problem
+- Diagnose test the relevant hypotheses to identify the real issues through data
+analysis and primary/secondary source
+- Direct the results of data analysis to form a solid recommendation and look for
+necessary feedback.
