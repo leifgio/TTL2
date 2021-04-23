@@ -16,4 +16,12 @@ st-century-learning
 todays-learner
 generalization-2
 developing-basic-digital-skills
+solution-fluency
+information-fluency
+collaboration-fluency
+media-fluency
+creative-fluency
+digital-ethics
 preferences-of-technology-generation
+difference-between-old-and-young-generation
+generalization-3
