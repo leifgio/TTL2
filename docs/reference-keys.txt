@@ -3,9 +3,10 @@ learning-skills
 literacy-skills
 life-skills
 generalization
-data-sources
-data-transformation
-missing-values
-results
-interactive-component
-conclusion
+project-based-and-problem-based-learning
+digital-learning-resources
+non-digital-teaching-and-learning-resources
+bridging-the-generation-gap
+understanding-technology-learners
+developing-basic-digital-skills
+preferences-of-technology-generation

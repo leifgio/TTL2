@@ -1,6 +1,7 @@
 bookdown::gitbook:
   css: style.css
   config:
+    sharing: null
     toc:
       before: |
         <li><a href="./">Technology in Teaching and Learning 2</a></li>

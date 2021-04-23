@@ -1,0 +1,161 @@
+# Project-Based and Problem-Based Learning
+
+**Project-based Learning**
+
+Project-based learning is an instructional strategy in which students work
+cooperatively over time to create a product, presentation, or performance. The two
+essential components of project-based learning are an engaging and motivating
+question and a product that meaningfully addresses that question.
+
+Important characteristics of project-based learning, according to the
+International Society for Technology in Education (ISTE), include the following:
+
+- Students can shape the project to fit their own interests and abilities.
+- Students collect and analyze information, make discoveries, and report their
+results.
+- Students conduct research using multiple sources of information.
+- The project cuts across a number of disciplines.
+- Students must draw on a broad range of knowledge and skills.
+- The project extends over a significant period of time.
+- The project involves the design and development of a product, presentation, or
+performance that can be used or viewed by others.
+- The context for the subject matter is larger than the immediate lesson.
+- The instruction and facilitation is guided by a broad range of teaching goals.
+
+**Problem-Based Learning**
+
+Problem-based learning is an instructional strategy in which students work cooperatively to investigate and resolve an ill-structured problem based on real-world issues or situations. The steps involved in problem-based learning include:
+
+- Determining what the problem is;
+- Creating a specific statement of the problem;
+- Identifying the information needed;
+- Identifying the resources to be used to find that information;
+- Developing a possible solution;
+- Analyzing and refining the solution;
+- Presenting the final solution, orally and/or in writing.
+
+Project-based learning and problem-based learning have a great deal in common.
+
+- Involve realistic problems and situations.
+- Are based on authentic educational goals.
+- Include formative and summative evaluation,
+- Are learners centered and teacher facilitated.
+- Are intrinsically engaging and motivating.
+- Are frequently multidisciplinary.
+- Improve students' research and problem-solving skills, as well as their ability to work cooperatively with their peers.
+The difference between the two lies largely in their application: Problem-based learning focuses on the problem and the process, while project-based learning focuses on the product.
+
+**Digital Resources**
+
+It can be defined as materials that have been conceived and created digitally or
+by converting analogue materials to a digital format, applications, software, programs
+or websites that engage students in learning activities and support students' learning
+goals.
+
+## Digital Learning Resources
+Digitally formatted materials included in the context of a course that support the learner's achievement of the described
+learning goals.
+
+**Types of Digital Learning Resources**
+- TEXT (online articles websites, e-books, blogs, manuals and reports)
+- GRAPHICS (photos, paintings, drawing, cartoons, illustration )
+- AUDIO (podcast)
+- ANIMATION(animated demos, processes)
+- SIMULATION(virtual world, second life)
+- GAMES(mine craft, portal, spore)
+
+**Why digital learning resources?**
+- Relevant and regularly updated content
+- Expanded learning opportunities
+- Easier monitoring of student progress
+- Allows for immediate feedback to learners
+- Facilitates collaborative learning
+
+*Productivity Software*
+
+- These software’s are becoming more popular and more in demand to learn for
+employment. It makes people more efficient and effective in their daily
+activities.-
+These programs enhance a teacher's lesson plan and allow the teacher to take
+their students beyond textbooks and boring lectures.
+
+*Three Popular applications:*
+
+- **Word processing** (MS word, Google Docs)
+Create or edit a typed document. Modify or edit text like its format, size, color, fonts and etc.
+Adding clip arts, change margins, spell check.
+
+- **Spreadsheets** (MS Excel)
+It organizes data in rows and columns in a worksheet. More
+than 15 million cells can hold data. In cells you can add formulas or function, adding them can affect cells that are modified, automatically.
+
+- **Database** (MySQL, Microsoft SQL Server, Oracle, FoxPro)
+A system that collects data and allows access, retrieval and use of the
+data. Data can contain text, numbers, dates or hyperlinks.You can sort, query and generate reports from it.
+
+*Other Productivity Software*
+
+- **Excel** - A Productivity tool when dealing in math and science situations. Charts and graphs can help visually in creating difference in numerical
+data.
+
+- **PowerPoint** - Enables teacher to make slides of their notes, Projecting slides onto a screen.
+
+**Productivity Software List**
+
+1. Google Apps for Business
+2. Libre Office Productivity Suite
+3. Open Office
+4. Microsoft Office
+5. WordPerfect Office X5
+
+**Advantages:**
+
+- Stimulate a student's mind using color, pictures, graphs activities and so much
+more.
+- Time and efficiency
+- Increase amount of information.
+- Varied Learning Experience
+- Flexible
+- Interactive resources can provide students with feedback.
+
+**Disadvantages:**
+
+- Expensive to license or create.
+- Technology Problems, Expensive equipment, Inhibit students' access.
+- Loss of Connectivity, computer freezes, power cuts.
+- Technology skills needed.
+
+## Non-Digital Teaching and Learning Resources
+
+**Non-digital Resources**
+
+Not relating to or using computers, the internet or other digital technology.
+Paper based materials such as leveled text and trade books, or a textbook as
+appropriate.
+
+Examples:
+
+- Boards, Whiteboards
+- Flipchart
+- Paper
+- Handouts
+
+*Advantages:*
+
+- Boards are quick and easy to use, available in 99% teaching accommodations.
+- Brings out creativity
+- Reliable
+- Enhance writing and reading skills.
+
+*Disadvantages:*
+
+- Time consuming
+- Limited Resources
+- Limited Learning experience
+
+**Examples of non-digital teaching and learning resources**
+
+- Whiteboard
+- Flipchart
+- Paper
+- Handouts
