@@ -1,3 +1,3 @@
-For additional features, consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
+# Technology for teaching and learning
 
-If you found this template useful, please star this repo!
+learning materials for TTL2 course
